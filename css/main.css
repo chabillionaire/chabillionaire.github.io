@@ -1,47 +1,30 @@
 body {
-<<<<<<< HEAD
 	font-family: "Lato", sans-serif;
 	font-weight: 300;
 	color: #747704;
-=======
-    font-family: 'Lato', sans-serif;
-    font-weight: 300;
-    color: #747704;
->>>>>>> origin/master
 }
+
 .text-muted {
-<<<<<<< HEAD
 	color: #bcbbbb;
-=======
-    color: #BCBBBB;
->>>>>>> origin/master
 }
+
 .text-thinner {
-    font-weight: 100;
+	font-weight: 100;
 }
+
 .title-logo {
-    margin-top: 10px;
+	margin-top: 10px;
 }
 
 .title-super {
-    font-size: 45px;
+	font-size: 45px;
 }
-<<<<<<< HEAD
 
 .logo {
 	max-height: 125px;
 	max-width: 125px;
-=======
-#logo {
-    max-height: 125px;
-    max-width: 125px;
->>>>>>> origin/master
 }
+
 hr {
-<<<<<<< HEAD
 	border-width: 3px;
-=======
-    border-style: noshade;
-    border-width: 3px;
->>>>>>> origin/master
 }
