@@ -3,6 +3,9 @@ body {
 	font-weight: 300;
 	color: #747704;
 }
+a {
+	color: #bcbbbb;
+}
 
 .text-muted {
 	color: #bcbbbb;
